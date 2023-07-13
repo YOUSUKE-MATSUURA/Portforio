@@ -1,0 +1,70 @@
+@charset "UTF-8";
+html {
+    font-size: 100%;
+    height: 100%;
+}
+
+body{
+    background-image: url(images/Background.png);
+    background-size: contain;
+    background-repeat: repeat;
+    font-family: 'DotGothic16', sans-serif;
+    height: 100%;
+    
+}
+
+.main{
+    height: 100vh;
+    margin: 0 10% 0 10%;
+}
+
+.title{
+    text-align: center;
+    
+    margin: 5% 15% 5% 15%;
+}
+
+h1{
+    color: #00FF00;
+    text-shadow: 1px 1px 0 #006400;
+}
+
+.form{
+    background:rgba(245, 255, 250, 0.9);
+    margin: 5% 10% 2% 10%;
+    padding: 2%;
+}
+
+.setsumei{
+    margin: 0% 10% 0% 10%;
+}
+
+.douga{
+    margin: 0% 10% 0% 10%;
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+}
+
+.douga iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.siyou{
+    margin: 0% 10% 0% 10%;
+}
+.return{
+    text-align: center;
+    margin:10% 45% 0 45%;
+}
+
+.return a{
+    color: #00FF00;
+    text-shadow: 1px 1px 0 #006400;
+    text-decoration: none;
+}

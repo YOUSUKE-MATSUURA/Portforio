@@ -1,0 +1,62 @@
+@charset "UTF-8";
+html {
+    font-size: 100%;
+}
+
+body{
+    background-image: url(images/Background.png);
+    background-size: cover;
+    background-repeat: repeat;
+    font-family: 'DotGothic16', sans-serif;
+    height: 100%;
+    
+}
+
+body .main{
+    height: 100vh;
+    margin: 0 10% 0 10%;
+}
+
+.prof{
+    background:rgba(240, 255, 240, 0.8);
+    margin-top: 10%;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+    
+    margin: 10% 15% 5% 15%;
+    
+}
+
+h2{
+    margin: 0% 15% 5% 15%;
+}
+
+.keireki{
+    margin: 0% 15% 5% 15%;
+}
+
+.keireki2{
+    margin: 0% 15% 5% 15%;
+}
+
+.keireki3{
+    margin: 0% 15% 10% 15%;
+}
+
+.keireki3 a{
+    text-decoration: none;
+}
+
+.return{
+    text-align: center;
+    margin:10% 45% 0 45%;
+}
+
+.return a{
+    color: #00FF00;
+    text-shadow: 1px 1px 0 #006400;
+    text-decoration: none;
+}

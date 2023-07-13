@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/*----index.html*/
+html {
+    font-size: 100%;
+}
+
+body{
+    background-image: url(images/Background.png);
+    background-size: contain;
+    background-repeat: repeat;
+    font-family: 'DotGothic16', sans-serif;
+}
+
+.Imag{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+img{
+    height: 100px;
+}
+
+.main_Logo{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: #00FF00;
+    font-size: 5rem;
+    font-family: 'DotGothic16', sans-serif;
+    text-shadow: 1px 1px 0 #006400;
+}
+
+.container{
+    display:grid;
+    justify-content: center;
+}
+
+a{
+    color: #006400;
+    text-decoration: none;
+}
+
+.more{
+    border-style: outset;
+    border-color: #00FF00;
+    padding: 10px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 1px 1px 0 #006400;
+}
+
+.more a{
+    color: #00FF00;
+}
+
+.item{
+    background: #00FF00;
+    padding: 10px;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+/*=========================================*/
