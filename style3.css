@@ -22,7 +22,7 @@ h1{
         text-shadow: 1px 1px 0 #B22222;
 }
 .opp{
-    background: rgba(255, 192, 203, 0.7);
+    background: rgb(255, 192, 203);
     margin: 0% 10% 2% 10%;
     padding: 2%;
 }
@@ -56,7 +56,7 @@ h1{
 }
 
 .angel{
-    background: rgba(255, 192, 203, 0.7);
+    background: rgb(255, 192, 203);
     margin: 5% 10% 2% 10%;
     padding: 2%;
 }
